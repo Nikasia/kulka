@@ -3,6 +3,7 @@ import java.awt.event.*;
 import java.io.FileNotFoundException;
 import java.util.*;
 
+/** Klasa opisująca okno gry */
 public class Okno extends JFrame implements ActionListener {
 
     JButton bSterowanie = new JButton("Sterowanie");
